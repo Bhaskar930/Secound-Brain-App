@@ -1,4 +1,4 @@
-# 🧠 Second Brain Web App (Full-Stack MERN) — 2024
+# 🧠 Second Brain Web App (Full-Stack MERN) 
 
 **Second Brain** is a full-stack MERN productivity tool that helps users save, organize, and collaborate on links and notes — all in one place. The app features real-time sharing, authentication, and a responsive, modern UI.
 
